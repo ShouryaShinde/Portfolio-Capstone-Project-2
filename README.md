@@ -15,7 +15,7 @@ This is a personal portfolio website built using only **HTML** and **CSS**, crea
 ## 🔗 Live Demo
 
 Check out the live version here:  
-👉 [https://your-username.github.io/your-repo-name](https://your-username.github.io/your-repo-name)
+👉 https://shouryashinde.github.io/Portfolio-Capstone-Project-2/
 
 ---
 
