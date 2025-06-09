@@ -92,3 +92,63 @@ p {
   color: #343434;
   font-size: larger;
 }
+@media only screen and (max-width: 767px) {
+  body {
+    grid-template-columns: 1fr;
+  }
+
+  .hero {
+    flex-direction: column;
+    padding: 50px 20px 20px 20px;
+    text-align: center;
+    height: auto;
+  }
+
+  .specialimage {
+    margin-top: 20px;
+  }
+
+  .personal {
+    padding: 0 15px;
+  }
+
+  .Line1, .Line2, .Line3 {
+    flex-direction: column;
+    align-items: center;
+    margin: 40px 0;
+  }
+
+  .item {
+    width: 90%;
+    text-align: center;
+  }
+
+  .img1 {
+    width: 90%;
+    height: auto;
+  }
+
+  .contact {
+    padding: 50px 20px;
+    text-align: center;
+  }
+
+  .footer {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 30px 10px;
+  }
+
+  h1 {
+    font-size: 36px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+}
